@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tema-go3/static/css/main.7acaea2f.css",
+    "main.js": "/Tema-go3/static/js/main.257db187.js",
+    "index.html": "/Tema-go3/index.html",
+    "main.7acaea2f.css.map": "/Tema-go3/static/css/main.7acaea2f.css.map",
+    "main.257db187.js.map": "/Tema-go3/static/js/main.257db187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.257db187.js"
+  ]
+}
